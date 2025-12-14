@@ -38,7 +38,7 @@ export default function Home() {
           I'm building{" "}
           <Link
             target="_blank"
-            href="https://whimsical-quokka-ed963b.netlify.app/"
+            href="https://dia-org.netlify.app/"
             className="underline duration-500 hover:text-zinc-300"
           >
             DIA
